@@ -24,7 +24,7 @@ namespace QuickNotes.Data
                 modelBuilder.Entity<Nota>().ToTable("Nota");
                 modelBuilder.Entity<Cuaderno>().ToTable("Cuaderno");
                 modelBuilder.Entity<Cuaderno>().ToTable("ActividadUsuario");
-        }
+            }
     }
     
 }

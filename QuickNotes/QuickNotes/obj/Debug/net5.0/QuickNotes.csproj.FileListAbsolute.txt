@@ -331,3 +331,4 @@ C:\Users\oscaa\Documents\Examen1_paradigmas-\QuickNotes\QuickNotes\obj\Debug\net
 C:\Users\oscaa\Documents\Examen1_paradigmas-\QuickNotes\QuickNotes\obj\Debug\net5.0\ref\QuickNotes.dll
 C:\Users\oscaa\Documents\Examen1_paradigmas-\QuickNotes\QuickNotes\obj\Debug\net5.0\QuickNotes.pdb
 C:\Users\oscaa\Documents\Examen1_paradigmas-\QuickNotes\QuickNotes\obj\Debug\net5.0\QuickNotes.genruntimeconfig.cache
+C:\Users\oscaa\Documents\Examen1_paradigmas-\QuickNotes\QuickNotes\bin\Debug\net5.0\libman.json
